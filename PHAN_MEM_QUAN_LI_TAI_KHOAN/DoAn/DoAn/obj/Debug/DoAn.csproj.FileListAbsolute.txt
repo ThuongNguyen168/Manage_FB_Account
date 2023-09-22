@@ -1,0 +1,169 @@
+C:\Users\duong\source\repos\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\duong\source\repos\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\duong\source\repos\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\duong\source\repos\DoAn\DoAn\bin\Debug\Guna.UI2.dll
+C:\Users\duong\source\repos\DoAn\DoAn\bin\Debug\Memory.dll
+C:\Users\duong\source\repos\DoAn\DoAn\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\duong\source\repos\DoAn\DoAn\bin\Debug\Memory.xml
+C:\Users\duong\source\repos\DoAn\DoAn\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\duong\source\repos\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+C:\Users\duong\source\repos\DoAn\DoAn\obj\Debug\DoAn.csproj.SuggestedBindingRedirects.cache
+C:\Users\duong\source\repos\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\duong\source\repos\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+C:\Users\duong\source\repos\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\duong\source\repos\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+C:\Users\duong\source\repos\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\duong\source\repos\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\duong\source\repos\DoAn\DoAn\obj\Debug\DoAn.Login.resources
+C:\Users\duong\source\repos\DoAn\DoAn\obj\Debug\DoAn.register.resources
+C:\Users\duong\source\repos\DoAn\DoAn\obj\Debug\DoAn.Resetcs.resources
+C:\Users\duong\source\repos\DoAn\DoAn\obj\Debug\DoAn.Main.resources
+C:\Users\duong\source\repos\DoAn\DoAn\obj\Debug\DoAn.Wellcome.resources
+C:\Users\duong\source\repos\DoAn\DoAn\obj\Debug\DoAn.resetmk.resources
+C:\Users\duong\source\repos\DoAn\DoAn\obj\Debug\DoAn.notifation.resources
+C:\Users\duong\source\repos\DoAn\DoAn\obj\Debug\DoAn.Home.resources
+C:\Users\duong\source\repos\DoAn\DoAn\obj\Debug\DoAn.setting.resources
+C:\Users\duong\source\repos\DoAn\DoAn\obj\Debug\DoAn.adm.resources
+E:\zalo\DoAn\DoAn\bin\Debug\DoAn.exe.config
+E:\zalo\DoAn\DoAn\obj\Debug\DoAn.exe
+E:\zalo\DoAn\DoAn\obj\Debug\DoAn.pdb
+E:\zalo\DoAn\DoAn\bin\Debug\DoAn.exe
+E:\zalo\DoAn\DoAn\bin\Debug\DoAn.pdb
+E:\zalo\DoAn\DoAn\bin\Debug\Guna.UI2.dll
+E:\zalo\DoAn\DoAn\bin\Debug\Memory.dll
+E:\zalo\DoAn\DoAn\bin\Debug\System.Security.Principal.Windows.dll
+E:\zalo\DoAn\DoAn\bin\Debug\Memory.xml
+E:\zalo\DoAn\DoAn\bin\Debug\System.Security.Principal.Windows.xml
+E:\zalo\DoAn\DoAn\obj\Debug\DoAn.csprojResolveAssemblyReference.cache
+E:\zalo\DoAn\DoAn\obj\Debug\DoAn.adm.resources
+E:\zalo\DoAn\DoAn\obj\Debug\DoAn.Home.resources
+E:\zalo\DoAn\DoAn\obj\Debug\DoAn.Login.resources
+E:\zalo\DoAn\DoAn\obj\Debug\DoAn.Main.resources
+E:\zalo\DoAn\DoAn\obj\Debug\DoAn.notifation.resources
+E:\zalo\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+E:\zalo\DoAn\DoAn\obj\Debug\DoAn.register.resources
+E:\zalo\DoAn\DoAn\obj\Debug\DoAn.Resetcs.resources
+E:\zalo\DoAn\DoAn\obj\Debug\DoAn.resetmk.resources
+E:\zalo\DoAn\DoAn\obj\Debug\DoAn.setting.resources
+E:\zalo\DoAn\DoAn\obj\Debug\DoAn.Wellcome.resources
+E:\zalo\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\đồ án\DoAn\DoAn\bin\Debug\DoAn.exe.config
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\đồ án\DoAn\DoAn\obj\Debug\DoAn.exe
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\đồ án\DoAn\DoAn\obj\Debug\DoAn.pdb
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\bin\Debug\DoAn.exe.config
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\obj\Debug\DoAn.exe
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\obj\Debug\DoAn.pdb
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\bin\Debug\DoAn.exe
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\bin\Debug\DoAn.pdb
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\bin\Debug\Guna.UI2.dll
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\bin\Debug\Memory.dll
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\bin\Debug\System.Security.Principal.Windows.dll
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\bin\Debug\Memory.xml
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\bin\Debug\System.Security.Principal.Windows.xml
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\obj\Debug\DoAn.adm.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\obj\Debug\DoAn.Home.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\obj\Debug\DoAn.Login.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\obj\Debug\DoAn.Main.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\obj\Debug\DoAn.notifation.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\obj\Debug\DoAn.register.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\obj\Debug\DoAn.Resetcs.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\obj\Debug\DoAn.resetmk.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\obj\Debug\DoAn.setting.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\obj\Debug\DoAn.Wellcome.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\bin\Debug\Interop.WMPLib.dll
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\bin\Debug\AxInterop.WMPLib.dll
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\obj\Debug\Interop.WMPLib.dll
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\obj\Debug\AxInterop.WMPLib.dll
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\obj\Debug\DoAn.csproj.ResolveComReference.cache
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\obj\Debug\DoAn.Customer.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\obj\Debug\DoAn.QUANLI.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\obj\Debug\DoAn.csprojResolveAssemblyReference.cache
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\obj\Debug\DoAn.QUANLIKHACHHANG.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\obj\Debug\DoAn.QUANLIMAIN.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\obj\Debug\DoAn.QUANLINHANVIEN.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\obj\Debug\DoAn.QUANLIBINHLUAN.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\obj\Debug\DoAn.QUANLIBAIVIET.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\obj\Debug\DoAn.QUANLISTORY.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\obj\Debug\DoAn.QUANLITHONGBAO.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\obj\Debug\DoAn.QUANLITIMKIEM.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\DoAn\DoAn\obj\Debug\DoAn.QUANLITINNHAN.resources
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\obj\Debug\Interop.WMPLib.dll
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.csproj.ResolveComReference.cache
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.adm.resources
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.Customer.resources
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.Home.resources
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.Login.resources
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.Main.resources
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.notifation.resources
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.QUANLIBAIVIET.resources
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.QUANLIBINHLUAN.resources
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.QUANLIKHACHHANG.resources
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.QUANLIMAIN.resources
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.QUANLINHANVIEN.resources
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.QUANLISTORY.resources
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.QUANLITHONGBAO.resources
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.QUANLITIMKIEM.resources
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.QUANLITINNHAN.resources
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.register.resources
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.Resetcs.resources
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.resetmk.resources
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.setting.resources
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.QUANLI.resources
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.Wellcome.resources
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\bin\Debug\Memory.dll
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\bin\Debug\Memory.xml
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\bin\Debug\Interop.WMPLib.dll
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ASUS GAMING\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\bin\Debug\DoAn.exe.config
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\obj\Debug\Interop.WMPLib.dll
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\obj\Debug\AxInterop.WMPLib.dll
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\obj\Debug\DoAn.csproj.ResolveComReference.cache
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\obj\Debug\DoAn.exe
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\obj\Debug\DoAn.pdb
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\bin\Debug\DoAn.exe
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\bin\Debug\DoAn.pdb
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\bin\Debug\Guna.UI2.dll
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\bin\Debug\Memory.dll
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\bin\Debug\System.Security.Principal.Windows.dll
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\bin\Debug\Memory.xml
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\bin\Debug\System.Security.Principal.Windows.xml
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\bin\Debug\Interop.WMPLib.dll
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\bin\Debug\AxInterop.WMPLib.dll
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\obj\Debug\DoAn.csprojResolveAssemblyReference.cache
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\obj\Debug\DoAn.adm.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\obj\Debug\DoAn.Customer.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\obj\Debug\DoAn.Login.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\obj\Debug\DoAn.Main.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\obj\Debug\DoAn.notifation.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\obj\Debug\DoAn.QUANLIBAIVIET.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\obj\Debug\DoAn.QUANLIBINHLUAN.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\obj\Debug\DoAn.QUANLIKHACHHANG.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\obj\Debug\DoAn.QUANLIMAIN.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\obj\Debug\DoAn.QUANLINHANVIEN.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\obj\Debug\DoAn.QUANLISTORY.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\obj\Debug\DoAn.QUANLITHONGBAO.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\obj\Debug\DoAn.QUANLITIMKIEM.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\obj\Debug\DoAn.QUANLITINNHAN.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\obj\Debug\DoAn.register.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\obj\Debug\DoAn.resetmk.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\obj\Debug\DoAn.setting.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\obj\Debug\DoAn.QUANLI.resources
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+E:\HỌC KỲ 1 2022-2023\CÔNG NGHỆ .NET\PHẦM MỀM QUẢN LÝ TÀI KHOẢN FACEBOOK\PHAN_MEM_QUAN_LI_TAI_KHOAN\DoAn\DoAn\obj\Debug\DoAn.BAOCAOBAIDANG.resources

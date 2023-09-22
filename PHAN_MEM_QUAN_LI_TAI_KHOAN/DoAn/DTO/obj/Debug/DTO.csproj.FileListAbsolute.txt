@@ -1,0 +1,31 @@
+C:\Users\ASUS\Desktop\TH MySQL\QL_NhanSu\DTO\bin\Debug\DTO.dll
+C:\Users\ASUS\Desktop\TH MySQL\QL_NhanSu\DTO\bin\Debug\DTO.pdb
+C:\Users\ASUS\Desktop\TH MySQL\QL_NhanSu\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\TH MySQL\QL_NhanSu\DTO\obj\Debug\DTO.dll
+C:\Users\ASUS\Desktop\TH MySQL\QL_NhanSu\DTO\obj\Debug\DTO.pdb
+C:\Users\ASUS\OneDrive\Máy tính\QL_NhanSu\DTO\bin\Debug\DTO.dll
+C:\Users\ASUS\OneDrive\Máy tính\QL_NhanSu\DTO\bin\Debug\DTO.pdb
+C:\Users\ASUS\OneDrive\Máy tính\QL_NhanSu\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\QL_NhanSu\DTO\obj\Debug\DTO.dll
+C:\Users\ASUS\OneDrive\Máy tính\QL_NhanSu\DTO\obj\Debug\DTO.pdb
+C:\Users\NITRO\Desktop\QL_NhanSu (1)\QL_NhanSu\DTO\bin\Debug\DTO.dll
+C:\Users\NITRO\Desktop\QL_NhanSu (1)\QL_NhanSu\DTO\bin\Debug\DTO.pdb
+C:\Users\NITRO\Desktop\QL_NhanSu (1)\QL_NhanSu\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\NITRO\Desktop\QL_NhanSu (1)\QL_NhanSu\DTO\obj\Debug\DTO.dll
+C:\Users\NITRO\Desktop\QL_NhanSu (1)\QL_NhanSu\DTO\obj\Debug\DTO.pdb
+C:\Users\NITRO\Desktop\NhanSu(Chinh)\QL_NhanSu (1)\QL_NhanSu\DTO\bin\Debug\DTO.dll
+C:\Users\NITRO\Desktop\NhanSu(Chinh)\QL_NhanSu (1)\QL_NhanSu\DTO\bin\Debug\DTO.pdb
+C:\Users\NITRO\Desktop\NhanSu(Chinh)\QL_NhanSu (1)\QL_NhanSu\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\NITRO\Desktop\NhanSu(Chinh)\QL_NhanSu (1)\QL_NhanSu\DTO\obj\Debug\DTO.dll
+C:\Users\NITRO\Desktop\NhanSu(Chinh)\QL_NhanSu (1)\QL_NhanSu\DTO\obj\Debug\DTO.pdb
+C:\Users\ASUS\Desktop\TH MySQL\NhanSu(Chinh)\QL_NhanSu (1)\QL_NhanSu\DTO\bin\Debug\DTO.dll
+C:\Users\ASUS\Desktop\TH MySQL\NhanSu(Chinh)\QL_NhanSu (1)\QL_NhanSu\DTO\bin\Debug\DTO.pdb
+C:\Users\ASUS\Desktop\TH MySQL\NhanSu(Chinh)\QL_NhanSu (1)\QL_NhanSu\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\TH MySQL\NhanSu(Chinh)\QL_NhanSu (1)\QL_NhanSu\DTO\obj\Debug\DTO.dll
+C:\Users\ASUS\Desktop\TH MySQL\NhanSu(Chinh)\QL_NhanSu (1)\QL_NhanSu\DTO\obj\Debug\DTO.pdb
+C:\Users\ASUS GAMING\OneDrive\Desktop\Nhom6_QLNhaSu\NhanSu(Chinh)\QL_NhanSu (1)\QL_NhanSu\DTO\bin\Debug\DTO.dll
+C:\Users\ASUS GAMING\OneDrive\Desktop\Nhom6_QLNhaSu\NhanSu(Chinh)\QL_NhanSu (1)\QL_NhanSu\DTO\bin\Debug\DTO.pdb
+C:\Users\ASUS GAMING\OneDrive\Desktop\Nhom6_QLNhaSu\NhanSu(Chinh)\QL_NhanSu (1)\QL_NhanSu\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\ASUS GAMING\OneDrive\Desktop\Nhom6_QLNhaSu\NhanSu(Chinh)\QL_NhanSu (1)\QL_NhanSu\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\ASUS GAMING\OneDrive\Desktop\Nhom6_QLNhaSu\NhanSu(Chinh)\QL_NhanSu (1)\QL_NhanSu\DTO\obj\Debug\DTO.dll
+C:\Users\ASUS GAMING\OneDrive\Desktop\Nhom6_QLNhaSu\NhanSu(Chinh)\QL_NhanSu (1)\QL_NhanSu\DTO\obj\Debug\DTO.pdb
